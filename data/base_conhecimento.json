@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "fazer cpf",
+      "cadastro de pessoa fisica",
+      "nao tenho cpf"
+    ],
+    "resposta": "A inscrição no CPF é grátis e dá pra fazer pela internet, no formulário da Receita Federal. Também dá pra pedir numa unidade da Receita ou nos parceiros (cartório, Banco do Brasil, Caixa e Correios), mas nos parceiros é cobrada uma taxa de R$ 7,00. Se você tem 16 ou 17 anos, pode pedir sozinho, só com seu documento com foto.",
+    "documentos": [
+      "Documento de identificação oficial com foto",
+      "Certidão de nascimento ou casamento (se o documento com foto não mostrar naturalidade, filiação e data de nascimento)"
+    ],
+    "onde": "Site da Receita Federal (formulário online), unidades da Receita Federal ou parceiros: cartório, Banco do Brasil, Caixa e Correios",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Emitir a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "carteira de identidade",
+      "rg",
+      "cin",
+      "nova identidade",
+      "tirar identidade",
+      "identidade nacional"
+    ],
+    "resposta": "A CIN é a nova carteira de identidade e usa o número do seu CPF. A primeira via em papel é grátis. Quem emite é o órgão de identificação do seu estado: em SP, você agenda pelo site, app, totem ou WhatsApp do Poupatempo e vai pessoalmente no dia marcado. Em SP ela fica pronta em até 26 dias úteis e, depois, também aparece no app gov.br. O RG antigo continua valendo até 2032. Menor de 18 anos também pode tirar, basta ter CPF.",
+    "documentos": [
+      "Documento original com o número do CPF",
+      "Certidão de nascimento ou casamento (conforme o seu estado civil atual)"
+    ],
+    "onde": "Órgão de identificação do seu estado (em SP: Poupatempo, com agendamento) e, depois, app gov.br para a versão digital",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o primeiro título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "votar",
+      "titulo net",
+      "etitulo",
+      "primeiro titulo"
+    ],
+    "resposta": "Você pode tirar o título a partir dos 15 anos, mas só vota com 16. O voto fica obrigatório aos 18, e o primeiro título deve ser pedido no ano em que você faz 18. O pedido é grátis, pelo Título Net (site do TSE) ou num cartório eleitoral, e só você pode pedir, ninguém pode fazer por você. Em ano de eleição, o pedido só pode ser feito até 151 dias antes da votação. Depois de aprovado, o título digital fica no app e-Título.",
+    "documentos": [
+      "Documento oficial de identificação (RG, CIN ou certidão de nascimento/casamento)",
+      "Comprovante de vínculo com a cidade onde vai votar (ex.: comprovante de residência)",
+      "Certificado de quitação militar (só para homens na idade do serviço militar obrigatório)"
+    ],
+    "onde": "Título Net, no site do TSE, ou cartório eleitoral da cidade onde você quer votar",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/carta-de-servicos-ao-eleitor",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento",
+      "alistamento militar",
+      "exercito",
+      "servico militar",
+      "junta militar",
+      "reservista"
+    ],
+    "resposta": "O alistamento militar é obrigatório para homens no ano em que fazem 18 anos. Mulheres não são obrigadas, mas podem fazer o alistamento feminino voluntário. O prazo vai de 1º de janeiro a 30 de junho. Dá pra fazer online, no site alistamento.eb.mil.br, ou numa Junta de Serviço Militar, e nos dois casos você entra com a conta gov.br. Se perder o prazo, você continua tendo que se alistar, mas precisa ir numa Junta pra regularizar.",
+    "documentos": [
+      "Documento de identidade (RG ou CIN)",
+      "CPF",
+      "Comprovante de residência",
+      "Conta gov.br"
+    ],
+    "onde": "Site alistamento.eb.mil.br (com conta gov.br) ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://www.gov.br/defesa/pt-br/acesso-a-informacao/lei-geral-de-protecao-de-dados-pessoais-lgpd/termo-de-uso-e-aviso-de-privacidade/termo-de-uso_smo.pdf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "conta gov br",
+      "conta gov",
+      "senha do gov",
+      "senha gov",
+      "login gov",
+      "nivel prata",
+      "nivel ouro"
+    ],
+    "resposta": "A conta gov.br é o seu login único para os serviços digitais do governo, como Carteira de Trabalho Digital, Enem, ProUni e alistamento. Você cria pelo site gov.br ou pelo app gov.br, usando o seu CPF. A conta tem 3 níveis: bronze, prata e ouro. Quanto mais segura a validação dos seus dados, maior o nível e mais serviços você acessa. Pra subir de nível, use o app gov.br ou a opção Selos de Confiabilidade no site: dá pra fazer reconhecimento facial com a base da CNH, validar por um banco credenciado ou ler o QR Code da CIN.",
+    "documentos": [
+      "Número do CPF"
+    ],
+    "onde": "Site gov.br ou aplicativo gov.br (Android e iOS)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Ativar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira assinada",
+      "registro em carteira",
+      "carteira de trabalho digital"
+    ],
+    "resposta": "A Carteira de Trabalho agora é digital e usa o número do seu CPF. Pode ter quem tem mais de 14 anos e CPF, e não tem custo. É só baixar o app Carteira de Trabalho Digital ou acessar pelo site, entrando com a sua conta gov.br. Na hora de ser contratado, basta informar o seu CPF pra empresa, e os seus contratos de trabalho aparecem no app.",
+    "documentos": [
+      "Número do CPF",
+      "Conta gov.br"
+    ],
+    "onde": "App Carteira de Trabalho Digital (Android e iOS) ou site gov.br",
+    "fonte": "https://portalfat.trabalho.gov.br/programas-e-acoes-2/carteira-de-trabalho-ctps/",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Ser Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "menor aprendiz",
+      "aprendiz",
+      "aprendizagem",
+      "programa aprendiz"
+    ],
+    "resposta": "Jovem Aprendiz é um contrato de trabalho especial para quem tem de 14 a 24 anos (pessoa com deficiência não tem idade máxima) e está estudando ou já terminou o ensino médio. O contrato é registrado na Carteira de Trabalho desde o primeiro dia e dura no máximo 2 anos. Você passa parte do tempo na empresa e parte num curso profissional, como SENAI, SENAC ou SESI. A jornada é de até 6 horas por dia para quem está até o 9º ano e até 8 horas para quem está no ensino médio, e não pode ter hora extra nem banco de horas. No final, você recebe um certificado da profissão.",
+    "documentos": [
+      "Carteira de Trabalho Digital (o contrato é registrado nela)",
+      "Comprovante de matrícula escolar (se ainda estiver estudando)"
+    ],
+    "onde": "Empresas que contratam aprendizes, junto com escolas profissionais de aprendizagem (como SENAI, SENAC e SESI)",
+    "fonte": "https://www.trt4.jus.br/portais/trt4/jovem-aprendiz",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Direitos do estagiário (Lei do Estágio)",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "lei do estagio",
+      "bolsa auxilio",
+      "recesso",
+      "termo de compromisso"
+    ],
+    "resposta": "Estágio não é emprego com carteira assinada, é um ato educativo, e precisa de um termo de compromisso assinado por você, pela empresa e pela sua escola ou faculdade. A jornada é de no máximo 6 horas por dia e 30 por semana (ensino médio, técnico e superior), e cai pelo menos pela metade nos períodos de prova, se a escola avisar a empresa. Você tem direito a 30 dias de recesso a cada ano de estágio e a seguro contra acidentes. Na mesma empresa, o estágio dura no máximo 2 anos. No estágio não obrigatório, a empresa tem que pagar bolsa e auxílio-transporte.",
+    "documentos": [
+      "Termo de compromisso de estágio",
+      "Comprovante de matrícula na escola ou faculdade"
+    ],
+    "onde": "Empresas e agentes de integração de estágio, sempre com acompanhamento da sua instituição de ensino",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Fazer a inscrição no Enem",
+    "palavras_chave": [
+      "enem",
+      "vestibular",
+      "isencao",
+      "taxa do enem",
+      "pagina do participante",
+      "prova do enem"
+    ],
+    "resposta": "A inscrição no Enem é feita pela internet, na Página do Participante do Inep, com a sua conta gov.br, no período que sai no edital de cada ano. Antes da inscrição, abre um período para pedir isenção da taxa: têm direito, por exemplo, estudantes do 3º ano do ensino médio em escola pública e participantes do Pé-de-Meia. Atenção: mesmo com a isenção aprovada, você ainda precisa fazer a inscrição.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Página do Participante do Inep (enem.inep.gov.br/participante)",
+    "fonte": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-saiba-quem-tem-direito-a-isencao-da-taxa-de-inscricao",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Emitir a ID Jovem",
+    "palavras_chave": [
+      "id jovem",
+      "identidade jovem",
+      "idjovem",
+      "meia entrada",
+      "passagem gratis",
+      "viagem gratis"
+    ],
+    "resposta": "A ID Jovem é um documento digital e grátis para quem tem de 15 a 29 anos, de família inscrita no CadÚnico com dados atualizados e renda de até 2 salários mínimos. Não precisa ser estudante. Ela dá meia-entrada em eventos culturais e esportivos, duas vagas grátis e duas com 50% de desconto em viagens interestaduais convencionais (ônibus, barco ou trem) e isenção da taxa da carteira de estudante. Depois de entrar no CadÚnico, é preciso esperar pelo menos 45 dias pra gerar a ID Jovem.",
+    "documentos": [
+      "Inscrição no CadÚnico com dados atualizados"
+    ],
+    "onde": "Site ou app da ID Jovem (serviço do gov.br); pra fazer ou atualizar o CadÚnico, procure o CRAS da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 11,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Conseguir bolsa pelo ProUni",
+    "palavras_chave": [
+      "prouni",
+      "bolsa faculdade",
+      "bolsa de estudo",
+      "faculdade gratis",
+      "faculdade particular"
+    ],
+    "resposta": "O ProUni dá bolsa de 100% ou de 50% em faculdade particular para quem não tem diploma de faculdade. Você precisa ter feito o Enem em uma das duas últimas edições antes da seleção, com média de pelo menos 450 pontos e nota maior que zero na redação. A bolsa integral é para renda familiar de até 1,5 salário mínimo por pessoa, e a parcial até 3. Vale para quem estudou em escola pública e também em escola particular. A inscrição é grátis, pela internet, com a conta gov.br, e depois você leva os documentos na faculdade pra fazer a matrícula.",
+    "documentos": [
+      "RG",
+      "CPF",
+      "Comprovante de residência",
+      "Histórico escolar do ensino médio",
+      "Comprovantes de renda da família",
+      "Resultado do Enem"
+    ],
+    "onde": "Inscrição no Portal do ProUni (acessounico.mec.gov.br/prouni) e matrícula na faculdade escolhida",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-bolsa-de-estudo-do-prouni",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 12,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Receber o Pé-de-Meia",
+    "palavras_chave": [
+      "pe de meia",
+      "pe-de-meia",
+      "pedemeia",
+      "poupanca do ensino medio",
+      "incentivo frequencia"
+    ],
+    "resposta": "O Pé-de-Meia é uma poupança do governo federal para estudantes do ensino médio público. Tem direito quem está matriculado no ensino médio regular da rede pública e tem de 14 a 24 anos (ou está na EJA e tem de 19 a 24), é de família inscrita no CadÚnico com renda de até meio salário mínimo por pessoa e tem CPF regular. Não precisa se inscrever: a escola manda os dados para o MEC. Se você tiver direito, a Caixa abre uma conta digital no seu nome, que você acessa pelo app Caixa Tem. Para receber o incentivo de frequência, precisa ter pelo menos 80% de presença.",
+    "documentos": [
+      "CPF regular",
+      "Família inscrita no CadÚnico (com cadastro atualizado no CRAS nos últimos 24 meses)",
+      "Matrícula no ensino médio público"
+    ],
+    "onde": "É automático, pela sua escola; os pagamentos caem numa conta da Caixa (app Caixa Tem); dúvidas no 0800 616 161 do MEC",
+    "fonte": "https://www.caixa.gov.br/programas-sociais/pe-de-meia/Paginas/default.aspx",
+    "verificado_em": "2026-11-05"
+  }
+]

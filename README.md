@@ -13,7 +13,7 @@ Projeto da **Global Solution 2026.2** — disciplina **Pensamento Computacional 
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): **[COLOCAR O LINK AQUI]**
+Link https://youtu.be/5oDmpqQqMek
 
 ## Público e problema
 

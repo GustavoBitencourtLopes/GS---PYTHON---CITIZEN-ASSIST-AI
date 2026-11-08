@@ -218,5 +218,49 @@
     "tentativas": 1,
     "tempo_segundos": 1.9,
     "facilidade": 5
+  },
+  {
+    "data": "2026-11-08 17:22:45",
+    "origem": "pergunta",
+    "pergunta": "como faço a carteira de trabalho",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 53.6,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-08 17:30:07",
+    "origem": "pergunta",
+    "pergunta": "como faço uma carteira de trabalho",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 193.4,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-08 17:33:40",
+    "origem": "pergunta",
+    "pergunta": "como abrir conta no banco",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 97.2,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-08 17:37:50",
+    "origem": "pergunta",
+    "pergunta": "tenho que servir no quartel",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 88.5,
+    "facilidade": 5
   }
 ]
